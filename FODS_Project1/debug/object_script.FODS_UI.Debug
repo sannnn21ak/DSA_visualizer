@@ -1,0 +1,14 @@
+debug/main.o
+debug/VisualizerEngine.o
+debug/AI_Service.o
+debug/DynamicArray.o
+debug/LinkedList.o
+debug/Stack.o
+debug/Queue.o
+debug/BST.o
+debug/Graph.o
+debug/QtVisuals.o
+debug/MainWindow.o
+debug/moc_AI_Service.o
+debug/moc_QtVisuals.o
+debug/moc_MainWindow.o

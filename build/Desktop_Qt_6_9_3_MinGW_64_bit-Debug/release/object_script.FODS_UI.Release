@@ -1,0 +1,15 @@
+release/main.o
+release/VisualizerEngine.o
+release/AI_Service.o
+release/DynamicArray.o
+release/LinkedList.o
+release/Stack.o
+release/Queue.o
+release/BST.o
+release/Graph.o
+release/HashTable.o
+release/QtVisuals.o
+release/MainWindow.o
+release/moc_AI_Service.o
+release/moc_QtVisuals.o
+release/moc_MainWindow.o
